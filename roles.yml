@@ -3,13 +3,11 @@ roles:
   name: '&6Master'
   prefix: '&6[Master] '
   permission: 'role.master'
-  # nao esconder no lobby
   alwaysvisible: true
  gerente:
   name: '&4Gerente'
   prefix: '&4[Gerente] '
   permission: 'role.gerente'
-  # nao esconder no lobby
   alwaysvisible: true
  admin:
   name: '&cAdmin'
@@ -47,5 +45,4 @@ roles:
   name: '&7Membro'
   prefix: '&7'
   permission: ''
-  # nao enviar avisos ao entrar no lobby
   broadcast: false
