@@ -2,13 +2,6 @@
 
 # Sistema de Configs do GitHub
 github:
-  # Ativar/desativar sistema de configs do GitHub
-  enabled: true
-  
-  # URL base do GitHub (raw)
-  # Exemplo: https://raw.githubusercontent.com/seu-usuario/seu-repo/main/configs/
-  url: "https://raw.githubusercontent.com/usuario/repo/main/configs/"
-  
   # Intervalo de verificação de atualizações (em minutos)
   # Padrão: 5 minutos
   interval: 5
@@ -17,11 +10,11 @@ github:
 database:
   tipo: "mysql"
   mysql:
-    host: "localhost"
+    host: "78.46.164.171"
     porta: "3306"
-    nome: "kcore"
-    usuario: "root"
-    senha: ""
+    nome: "db_839857"
+    usuario: "db_839857"
+    senha: "4pCNi2el56Tx0bSN95l9"
     hikari: false
     mariadb: false
   mongodb:
