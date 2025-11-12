@@ -18,7 +18,7 @@ items:
   - '127.0.0.1:25565 ; lobby'
  skywars:
   slot: 12
-  icon: 'GRASS : 1 : nome>&aSky Wars &b&lBETA : desc>&8Sobrevivência\n \n  &7Você tem medo de altura? Então este\n  &7jogo não é para você! No Sky Wars, você\n  &7deverá eliminar os seus adversários com\n  &7a ajuda dos diversos Kits e Habilidades.\n \n  &7▪ &fSolo\n  &7▪ &fDupla\n \n&e► Clique para conectar!\n&7{players} jogando.'
+  icon: 'GRASS : 1 : nome>&aSky Wars : desc>&8Sobrevivência\n \n  &7Você tem medo de altura? Então este\n  &7jogo não é para você! No Sky Wars, você\n  &7deverá eliminar os seus adversários com\n  &7a ajuda dos diversos Kits e Habilidades.\n \n  &7▪ &fSolo\n  &7▪ &fDupla\n \n&e► Clique para conectar!\n&7{players} jogando.'
   max-players: 50
   servernames:
   - '127.0.0.1:25566 ; skywars'
