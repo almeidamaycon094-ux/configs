@@ -1,11 +1,3 @@
-# Configurações existentes do seu plugin...
-
-# Sistema de Configs do GitHub
-github:
-  # Intervalo de verificação de atualizações (em minutos)
-  # Padrão: 5 minutos
-  interval: 5
-
 # Resto das suas configurações...
 database:
   tipo: "mysql"
