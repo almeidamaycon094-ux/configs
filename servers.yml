@@ -8,7 +8,7 @@ disabled-slots: [10]
 items:
  lobby:
   slot: 10
-  icon: 'BOOKSHELF : 1 : nome>&6Lobby Principal : desc>&e► Clique para conectar!'
+  icon: 'BOOKSHELF : 1 : nome>&6Lobby Principal : desc>&e► Clique para conectaaaaaaaar!'
   # Quantidade maxima de jogadores por lobby.
   max-players: 50
   # Servidores para requisitar os dados
