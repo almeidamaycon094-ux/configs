@@ -1,4 +1,4 @@
-bungeecord: false
+bungeecord: true
 queue: true
 fake:
   role:
