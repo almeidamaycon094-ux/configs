@@ -11,8 +11,8 @@ fake:
     - 'ismykiss'
     - 'overdead'
     - 'traveler'
-  kick-apply: '&c&lREDE SLICK\n \n&aSeu nick foi modificado\n&aEntre novamente no servidor para que faça efeito.'
-  kick-remove: '&c&lREDE SLICK\n \n&aSeu nick foi resetado\n&aEntre novamente no servidor para que faça efeito.'
+  kick-apply: '&c&lREDE VEEPY\n \n&aSeu nick foi modificado\n&aEntre novamente no servidor para que faça efeito.'
+  kick-remove: '&c&lREDE VEEPY\n \n&aSeu nick foi resetado\n&aEntre novamente no servidor para que faça efeito.'
 party:
   size:
     role_master: 20
