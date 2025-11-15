@@ -2,7 +2,6 @@ bungeecord: false
 queue: true
 fake:
   role:
-  - 'Membro'
   - 'VIP'
   - 'MVP'
   - 'MVP+'
